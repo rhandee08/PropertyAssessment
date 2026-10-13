@@ -1,0 +1,6 @@
+{
+  "name": "Property Market Assessment",
+  "description": "Evaluate property addresses against key market KPIs and generate interactive Google Sheets market assessment reports with source links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

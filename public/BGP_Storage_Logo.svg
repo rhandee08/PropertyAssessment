@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="560" height="250">
+  <!-- 3D Stacked Storage Boxes -->
+  <g id="storage-boxes">
+    <!-- Bottom Left Box -->
+    <g transform="translate(10, 65)">
+      <polygon points="58,0 116,30 58,60 0,30" fill="#9bcb38" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round"/>
+      <line x1="58" y1="0" x2="58" y2="60" stroke="#ffffff" stroke-width="2.5"/>
+      <polygon points="0,30 58,60 58,130 0,100" fill="#86b528" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round"/>
+      <polygon points="58,60 116,30 116,100 58,130" fill="#739f1e" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round"/>
+      <rect x="20" y="42" width="16" height="32" rx="2" fill="#ffffff"/>
+      <rect x="24" y="52" width="8" height="14" rx="1" fill="#86b528"/>
+    </g>
+
+    <!-- Bottom Right Box -->
+    <g transform="translate(78, 100)">
+      <polygon points="58,0 116,30 58,60 0,30" fill="#9bcb38" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round"/>
+      <line x1="58" y1="0" x2="58" y2="60" stroke="#ffffff" stroke-width="2.5"/>
+      <polygon points="0,30 58,60 58,130 0,100" fill="#86b528" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round"/>
+      <polygon points="58,60 116,30 116,100 58,130" fill="#739f1e" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round"/>
+      <rect x="20" y="42" width="16" height="32" rx="2" fill="#ffffff"/>
+      <rect x="24" y="52" width="8" height="14" rx="1" fill="#86b528"/>
+    </g>
+
+    <!-- Top Box -->
+    <g transform="translate(44, 8)">
+      <polygon points="58,0 116,30 58,60 0,30" fill="#9bcb38" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round"/>
+      <line x1="58" y1="0" x2="58" y2="60" stroke="#ffffff" stroke-width="2.5"/>
+      <polygon points="0,30 58,60 58,130 0,100" fill="#86b528" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round"/>
+      <polygon points="58,60 116,30 116,100 58,130" fill="#739f1e" stroke="#ffffff" stroke-width="3.5" stroke-linejoin="round"/>
+      <rect x="20" y="42" width="16" height="32" rx="2" fill="#ffffff"/>
+      <rect x="24" y="52" width="8" height="14" rx="1" fill="#86b528"/>
+    </g>
+  </g>
+
+  <!-- Brand Typography -->
+  <g transform="translate(216, 20)">
+    <text x="0" y="108" font-family="'Arial Black', 'Impact', sans-serif" font-weight="900" font-size="100" fill="#9bcb38" letter-spacing="-2">BIG</text>
+    <text x="154" y="108" font-family="'Arial Black', 'Impact', sans-serif" font-weight="900" font-size="100" fill="#000000" letter-spacing="-2">GUY</text>
+    <rect x="0" y="126" width="320" height="48" fill="#000000" rx="3"/>
+    <text x="160" y="159" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="23" fill="#ffffff" text-anchor="middle" letter-spacing="13">STORAGE</text>
+  </g>
+</svg>
